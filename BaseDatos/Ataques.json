@@ -1,0 +1,1489 @@
+{
+    "Destructor": {
+        "ID": 1,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 35
+    },
+    "Golpe Karate": {
+        "ID": 2,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 50,
+        "PP": 25
+    },
+    "Doblebofeton": {
+        "ID": 3,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 15,
+        "PP": 10
+    },
+    "Puño Cometa": {
+        "ID": 4,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 18,
+        "PP": 15
+    },
+    "Mega Puño": {
+        "ID": 5,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 80,
+        "PP": 20
+    },
+    "Dia de Pago": {
+        "ID": 6,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 20
+    },
+    "Puño Fuego": {
+        "ID": 7,
+        "TIPO": "Fuego",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 75,
+        "PP": 15
+    },
+    "Puño Hielo": {
+        "ID": 8,
+        "TIPO": "Hielo",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 75,
+        "PP": 15
+    },
+    "Puño Trueno": {
+        "ID": 9,
+        "TIPO": "Electrico",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 75,
+        "PP": 15
+    },
+    "Arañazo": {
+        "ID": 10,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 35
+    },
+    "Agarre": {
+        "ID": 11,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 55,
+        "PP": 30
+    },
+    "Guillotina": {
+        "ID": 12,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 30,
+        "PODER": 0,
+        "PP": 5
+    },
+    "V. Cortante": {
+        "ID": 13,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": "100%75%",
+        "PODER": 80,
+        "PP": 10
+    },
+    "Danza Espada": {
+        "ID": 14,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Corte": {
+        "ID": 15,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 95,
+        "PODER": 50,
+        "PP": 30
+    },
+    "Tornado": {
+        "ID": 16,
+        "TIPO": "Volador",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 35
+    },
+    "Ataque Ala": {
+        "ID": 17,
+        "TIPO": "Volador",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 60,
+        "PP": 35
+    },
+    "Remolino": {
+        "ID": 18,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 85,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Vuelo": {
+        "ID": 19,
+        "TIPO": "Volador",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 95,
+        "PODER": 90,
+        "PP": 15
+    },
+    "Atadura": {
+        "ID": 20,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 75,
+        "PODER": 15,
+        "PP": 20
+    },
+    "Portazo": {
+        "ID": 21,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 75,
+        "PODER": 80,
+        "PP": 20
+    },
+    "Latigo Cepa": {
+        "ID": 22,
+        "TIPO": "Planta",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 35,
+        "PP": 15
+    },
+    "Pisoton": {
+        "ID": 23,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 65,
+        "PP": 20
+    },
+    "Doble Patada": {
+        "ID": 24,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 30,
+        "PP": 30
+    },
+    "Mega Patada": {
+        "ID": 25,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 75,
+        "PODER": 120,
+        "PP": 5
+    },
+    "Patada Salto": {
+        "ID": 26,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 95,
+        "PODER": 85,
+        "PP": 25
+    },
+    "Patada Giro": {
+        "ID": 27,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 60,
+        "PP": 15
+    },
+    "Ataque Arena": {
+        "ID": 28,
+        "TIPO": "Tierra",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Golpe Cabeza": {
+        "ID": 29,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 70,
+        "PP": 15
+    },
+    "Cornada": {
+        "ID": 30,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 65,
+        "PP": 25
+    },
+    "Ataque Furia": {
+        "ID": 31,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 15,
+        "PP": 20
+    },
+    "Perforador": {
+        "ID": 32,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 30,
+        "PODER": 0,
+        "PP": 5
+    },
+    "Placaje": {
+        "ID": 33,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 95,
+        "PODER": 35,
+        "PP": 35
+    },
+    "Golpe Cuerpo": {
+        "ID": 34,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 85,
+        "PP": 15
+    },
+    "Repeticion": {
+        "ID": 35,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 15,
+        "PP": 20
+    },
+    "Derribo": {
+        "ID": 36,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 90,
+        "PP": 20
+    },
+    "Golpe": {
+        "ID": 37,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 90,
+        "PP": 20
+    },
+    "Doble Filo": {
+        "ID": 38,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 120,
+        "PP": 15
+    },
+    "Latigo": {
+        "ID": 39,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Picotazo Ven": {
+        "ID": 40,
+        "TIPO": "Veneno",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 15,
+        "PP": 35
+    },
+    "Dobleataque": {
+        "ID": 41,
+        "TIPO": "Bicho",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 25,
+        "PP": 20
+    },
+    "Pin Misil": {
+        "ID": 42,
+        "TIPO": "Bicho",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 14,
+        "PP": 20
+    },
+    "Malicioso": {
+        "ID": 43,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Mordisco": {
+        "ID": 44,
+        "TIPO": "s44",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 60,
+        "PP": 25
+    },
+    "Gruñido": {
+        "ID": 45,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Rugido": {
+        "ID": 46,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Canto": {
+        "ID": 47,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 55,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Supersonico": {
+        "ID": 48,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 55,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Bomba Sonica": {
+        "ID": 49,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 90,
+        "PODER": 1,
+        "PP": 20
+    },
+    "Anulacion": {
+        "ID": 50,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 80,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Acido": {
+        "ID": 51,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 30
+    },
+    "Ascuas": {
+        "ID": 52,
+        "TIPO": "Fuego",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 25
+    },
+    "Lanzallamas": {
+        "ID": 53,
+        "TIPO": "Fuego",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 95,
+        "PP": 15
+    },
+    "Neblina": {
+        "ID": 54,
+        "TIPO": "Hielo",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Pistola Agua": {
+        "ID": 55,
+        "TIPO": "Agua",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 25
+    },
+    "Hidro Bomba": {
+        "ID": 56,
+        "TIPO": "Agua",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 80,
+        "PODER": 120,
+        "PP": 5
+    },
+    "Surf": {
+        "ID": 57,
+        "TIPO": "Agua",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 95,
+        "PP": 15
+    },
+    "Rayo Hielo": {
+        "ID": 58,
+        "TIPO": "Hielo",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 95,
+        "PP": 10
+    },
+    "Ventisca": {
+        "ID": 59,
+        "TIPO": "Hielo",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 70,
+        "PODER": 120,
+        "PP": 5
+    },
+    "Psico-Rayo": {
+        "ID": 60,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 5,
+        "PP": 20
+    },
+    "Rayo Burbuja": {
+        "ID": 61,
+        "TIPO": "Agua",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 65,
+        "PP": 20
+    },
+    "Rayo Aurora": {
+        "ID": 62,
+        "TIPO": "Hielo",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 65,
+        "PP": 20
+    },
+    "Hiperrayo": {
+        "ID": 63,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 90,
+        "PODER": 150,
+        "PP": 5
+    },
+    "Picotazo": {
+        "ID": 64,
+        "TIPO": "Volador",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 35,
+        "PP": 35
+    },
+    "Pico Taladro": {
+        "ID": 65,
+        "TIPO": "Volador",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 80,
+        "PP": 20
+    },
+    "Sumision": {
+        "ID": 66,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 80,
+        "PODER": 80,
+        "PP": 25
+    },
+    "Patada Baja": {
+        "ID": 67,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 1,
+        "PP": 20
+    },
+    "Contador": {
+        "ID": 68,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 1,
+        "PP": 20
+    },
+    "Mov. Sismico": {
+        "ID": 69,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 1,
+        "PP": 20
+    },
+    "Fuerza": {
+        "ID": 70,
+        "TIPO": "normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 80,
+        "PP": 15
+    },
+    "Absorber": {
+        "ID": 71,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 20,
+        "PP": 25
+    },
+    "Megaagotar": {
+        "ID": 72,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 15
+    },
+    "Drenadoras": {
+        "ID": 73,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 90,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Desarrollo": {
+        "ID": 74,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Hoja Afilada": {
+        "ID": 75,
+        "TIPO": "Planta",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 95,
+        "PODER": 55,
+        "PP": 25
+    },
+    "Rayo Solar": {
+        "ID": 76,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 120,
+        "PP": 10
+    },
+    "Polvo Veneno": {
+        "ID": 77,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 75,
+        "PODER": 0,
+        "PP": 35
+    },
+    "Paralizador": {
+        "ID": 78,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 75,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Somnifero": {
+        "ID": 79,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 75,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Danza Petalo": {
+        "ID": 80,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 90,
+        "PP": 20
+    },
+    "Disp. Demora": {
+        "ID": 81,
+        "TIPO": "Bicho",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 95,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Furia Dragon": {
+        "ID": 82,
+        "TIPO": "Dragon",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 1,
+        "PP": 10
+    },
+    "Giro Fuego": {
+        "ID": 83,
+        "TIPO": "Fuego",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 70,
+        "PODER": 15,
+        "PP": 15
+    },
+    "Impactrueno": {
+        "ID": 84,
+        "TIPO": "Electrico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 30
+    },
+    "Rayo": {
+        "ID": 85,
+        "TIPO": "Electrico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 95,
+        "PP": 15
+    },
+    "Onda Trueno": {
+        "ID": 86,
+        "TIPO": "Electrico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Trueno": {
+        "ID": 87,
+        "TIPO": "Electrico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 70,
+        "PODER": 120,
+        "PP": 10
+    },
+    "Lanza Rocas": {
+        "ID": 88,
+        "TIPO": "Roca",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Terremoto": {
+        "ID": 89,
+        "TIPO": "Tierra",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 100,
+        "PP": 10
+    },
+    "Fisura": {
+        "ID": 90,
+        "TIPO": "Tierra",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 30,
+        "PODER": 1,
+        "PP": 5
+    },
+    "Excavar": {
+        "ID": 91,
+        "TIPO": "Tierra",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 60,
+        "PP": 10
+    },
+    "Toxico": {
+        "ID": 92,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 85,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Confusion": {
+        "ID": 93,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 50,
+        "PP": 25
+    },
+    "Psiquico": {
+        "ID": 94,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 90,
+        "PP": 10
+    },
+    "Hipnosis": {
+        "ID": 95,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 70,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Meditacion": {
+        "ID": 96,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Agilidad": {
+        "ID": 97,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Ataque Rapido": {
+        "ID": 98,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 40,
+        "PP": 30
+    },
+    "Furia": {
+        "ID": 99,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 20,
+        "PP": 2
+    },
+    "Teletransp.": {
+        "ID": 100,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Tinieblas": {
+        "ID": 101,
+        "TIPO": "Fantasma",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 1,
+        "PP": 15
+    },
+    "Mimetico": {
+        "ID": 102,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Chirrido": {
+        "ID": 103,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 85,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Doble Equipo": {
+        "ID": 104,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Recuperacion": {
+        "ID": 105,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 1020
+    },
+    "Fortaleza": {
+        "ID": 106,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Reduccion": {
+        "ID": 107,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Pantallahumo": {
+        "ID": 108,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Rayo Confuso": {
+        "ID": 109,
+        "TIPO": "Fantasma",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Refugio": {
+        "ID": 110,
+        "TIPO": "Agua",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Rizo Defensa": {
+        "ID": 111,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Barrera": {
+        "ID": 112,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Pantalla Luz": {
+        "ID": 113,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Niebla": {
+        "ID": 114,
+        "TIPO": "Hielo",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Reflejo": {
+        "ID": 115,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Foco Energia": {
+        "ID": 116,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Venganza": {
+        "ID": 117,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 0,
+        "PODER": 1,
+        "PP": 10
+    },
+    "Metronomo": {
+        "ID": 118,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Mov. Espejo": {
+        "ID": 119,
+        "TIPO": "Volador",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Autodestruc.": {
+        "ID": 120,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 200,
+        "PP": 5
+    },
+    "Bomba Huevo": {
+        "ID": 121,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 75,
+        "PODER": 100,
+        "PP": 10
+    },
+    "Lenguetazo": {
+        "ID": 122,
+        "TIPO": "Fantasma",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 20,
+        "PP": 3
+    },
+    "Polucion": {
+        "ID": 123,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 70,
+        "PODER": 20,
+        "PP": 2
+    },
+    "Residuos": {
+        "ID": 124,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 65,
+        "PP": 20
+    },
+    "Hueso Palo": {
+        "ID": 125,
+        "TIPO": "Tierra",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 65,
+        "PP": 20
+    },
+    "Llamarada": {
+        "ID": 126,
+        "TIPO": "Fuego",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 85,
+        "PODER": 120,
+        "PP": 5
+    },
+    "Cascada": {
+        "ID": 127,
+        "TIPO": "Agua",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Tenaza": {
+        "ID": 128,
+        "TIPO": "Agua",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 75,
+        "PODER": 35,
+        "PP": 10
+    },
+    "Rapidez": {
+        "ID": 129,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 0,
+        "PODER": 60,
+        "PP": 20
+    },
+    "Cabezazo": {
+        "ID": 130,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 100,
+        "PP": 15
+    },
+    "Clavo Cañon": {
+        "ID": 131,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 20,
+        "PP": 1
+    },
+    "Restriccion": {
+        "ID": 132,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": "10",
+        "PP": 35
+    },
+    "Amnesia": {
+        "ID": 133,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Kinetico": {
+        "ID": 134,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 80,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Amortiguador": {
+        "ID": 135,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Patada. S. Alta": {
+        "ID": 136,
+        "TIPO": "Lucha",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 100,
+        "PP": 20
+    },
+    "Deslumbrar": {
+        "ID": 137,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 75,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Comesueños": {
+        "ID": 138,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 100,
+        "PP": 15
+    },
+    "Gas Venenoso": {
+        "ID": 139,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 55,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Presa": {
+        "ID": 140,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 15,
+        "PP": 20
+    },
+    "Chupa Vidas": {
+        "ID": 141,
+        "TIPO": "Bicho",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 20,
+        "PP": 1
+    },
+    "Beso Amoroso": {
+        "ID": 142,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 75,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Ataque Aereo": {
+        "ID": 143,
+        "TIPO": "Volador",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 140,
+        "PP": 5
+    },
+    "Transform.": {
+        "ID": 144,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Burbuja": {
+        "ID": 145,
+        "TIPO": "Agua",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 20,
+        "PP": 3
+    },
+    "Puño-Mareo": {
+        "ID": 146,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 70,
+        "PP": 10
+    },
+    "Espora": {
+        "ID": 147,
+        "TIPO": "Planta",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 15
+    },
+    "Destello": {
+        "ID": 148,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 100,
+        "PODER": 0,
+        "PP": 20
+    },
+    "Psico Onda": {
+        "ID": 149,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 80,
+        "PODER": 1,
+        "PP": 15
+    },
+    "Salpicadura": {
+        "ID": 150,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Armad. Acida": {
+        "ID": 151,
+        "TIPO": "Veneno",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 40
+    },
+    "Martillazo": {
+        "ID": 152,
+        "TIPO": "Agua",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 85,
+        "PODER": 90,
+        "PP": 10
+    },
+    "Explosion": {
+        "ID": 153,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 250,
+        "PP": 5
+    },
+    "Golpes Furia": {
+        "ID": 154,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 80,
+        "PODER": 18,
+        "PP": 15
+    },
+    "Huesomerang": {
+        "ID": 155,
+        "TIPO": "Tierra",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 50,
+        "PP": 10
+    },
+    "Descanso": {
+        "ID": 156,
+        "TIPO": "Psiquico",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Avalancha": {
+        "ID": 157,
+        "TIPO": "Roca",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 75,
+        "PP": 10
+    },
+    "Hip. Colmillo": {
+        "ID": 158,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 80,
+        "PP": 15
+    },
+    "Afilar": {
+        "ID": 159,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Conversion": {
+        "ID": 160,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 30
+    },
+    "Tri-Ataque": {
+        "ID": 161,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESPECIAL",
+        "EFECTIVIDAD": 100,
+        "PODER": 80,
+        "PP": 10
+    },
+    "Superdiente": {
+        "ID": 162,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 90,
+        "PODER": 1,
+        "PP": 10
+    },
+    "Cuchillada": {
+        "ID": 163,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 100,
+        "PODER": 70,
+        "PP": 20
+    },
+    "Sustituto": {
+        "ID": 164,
+        "TIPO": "Normal",
+        "CATEGORIA": "ESTADO",
+        "EFECTIVIDAD": 0,
+        "PODER": 0,
+        "PP": 10
+    },
+    "Combate": {
+        "ID": 165,
+        "TIPO": "Normal",
+        "CATEGORIA": "FISICO",
+        "EFECTIVIDAD": 0,
+        "PODER": 50,
+        "PP": 1
+    },
+    "COMENTARIOS": [
+        "Ninguno.",
+        "Alta probabilidad de Golpe Critico.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "Ninguno.",
+        "Recolecta dinero tras batallas contra Pokemon salvajes o entrenadores del juego.\n\tLa cantidad es: Q = Nivel Usuario x M x Usos Ataque. M es un modificador que depende de la version que juguemos: 2 (Verde, Rojo, Azul, Amarillo, Oro, Plata y Cristal), 5 (Rubi, Zafiro y Esmeralda), o 10 (Rojo Fuego y Verde Hoja).\n",
+        "10% de quemar al rival.",
+        "10% de congelar al rival.",
+        "10% de paralizar al rival.",
+        "Ninguno.",
+        "Ninguno.",
+        "Puede debilitar al Pokemon rival directamente.",
+        "Debe cargarse el primer turno para golpear en el segundo. Alta probabilidad de Golpe Critico.",
+        "Aumenta dos niveles el Ataque.",
+        "Ninguno. Permite cortar arbustos y hierba.",
+        "Golpea incluso cuando el rival usa Vuelo o Bote (en el primer caso dobla el daño).\nNinguno.",
+        "Ninguno.",
+        "Fuerza al rival a ser intercambiado. Afecta incluso cuando el rival usa Vuelo o Bote.",
+        "Se prepara un turno en el cielo. Permite volar entre Centros Pokemon.",
+        "Impide al Pokemon ser intercambiado y causa un 6.25% de daño al Pokemon de 2 a 5 turnos.",
+        "Ninguno.",
+        "Ninguno.",
+        "Puede hacer retroceder al rival. Su poder base se dobla si golpea a un Pokemon que ha usado Minimizar.",
+        "Golpea 2 veces seguidas.",
+        "Ninguno.",
+        "Si el ataque falla, el usuario recibe un 12.5% de daño.",
+        "Puede hacer retroceder al rival.",
+        "Baja un nivel la Precision del rival.",
+        "Puede hacer retroceder al rival.",
+        "Ninguno.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "Puede debilitar al Pokemon rival directamente.",
+        "Ninguno.",
+        "30% de paralizar al rival.",
+        "Impide al Pokemon ser intercambiado y causa un 6.25% de daño al Pokemon de 2 a 5 turnos.",
+        "Provoca daño de retroceso del 25% del daño provocado.",
+        "El Pokemon usa el mismo ataque de 2 a 3 turnos seguidos sin poder ser intercambiado. Tras estos turnos, pasa a estar confundido.",
+        "Provoca daño de retroceso del 33% del daño provocado.\nProvoca daño de retroceso del 25% del daño provocado.",
+        "Baja la Defensa un nivel al rival.",
+        "30% de envenenar al rival.\n20% de envenenar al rival.",
+        "Golpea 2 veces seguidas. 20% de envenenar al rival.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "Baja la Defensa un nivel al rival.",
+        "Puede hacer retroceder al rival.",
+        "Baja el Ataque un nivel al rival.",
+        "Termina la batalla contra Pokemon salvaje. Intercambia al Pokemon rival por otro al azar del equipo.\nTermina la batalla contra Pokemon salvaje.",
+        "Provoca Sueño.",
+        "Provoca Confusion.",
+        "Siempre resta 20 PS al rival.\nSiempre resta 20 PS al rival. Afecta a Pokemon tipo Fantasma.",
+        "Desactiva el \u00faltimo ataque usado por el rival.\nDesactiva un ataque al azar del rival.",
+        "10% de reducir la Defensa Especial un nivel al rival.\n10% de reducir la Defensa un nivel al rival.",
+        "10% de quemar al rival.",
+        "10% de quemar al rival.",
+        "Pseudo-estado que impide las reducciones de stats por parte de los movimientos del rival.",
+        "Ninguno.",
+        "Ninguno.",
+        "Efecto 257. Permite atravesar zonas acuaticas.\nNinguno. Permite atravesar zonas acuaticas.",
+        "10% de congelar al rival.",
+        "10% de congelar al rival. Este ataque no fallara durante una Granizada, y ademas tendra un 30% de precision aunque el rival use Proteccion o Deteccion.\n10% de congelar al rival.",
+        "10% de confundir al rival.",
+        "10% de reducir la Velocidad un nivel al rival.",
+        "10% de reducir el Ataque un nivel al rival.",
+        "Impide movimiento el siguiente turno.",
+        "Ninguno.",
+        "Ninguno.",
+        "Provoca daño de retroceso del 25% del daño provocado.",
+        "El poder base depende del peso del Pokemon rival.\n30% de hacer retroceder al rival. Cambio Total del Movimiento: (b) (b)",
+        "Devuelve el doble del daño causado por un ataque fisico ese turno.",
+        "Causa un daño equivalente al nivel del usuario en PS sin aplicar la formula del daño.",
+        "Ninguno. Permite empujar rocas grandes.",
+        "El usuario recupera PS equivalente a la mitad del daño causado.",
+        "El usuario recupera PS equivalente a la mitad del daño causado.",
+        "Hace perder al rival un 12.5% de su PS cada turno, y lo transfiere al Pokemon de nuestro equipo (sea usuario o no). Inefectivo contra Pokemon tipo Planta.\nHace perder al rival un 6.25% de su PS cada turno, y lo transfiere al Pokemon de nuestro equipo (sea usuario o no). Inefectivo contra Pokemon tipo Planta.",
+        "Aumenta un nivel el Ataque Especial.",
+        "Alta probabilidad de Golpe Critico.",
+        "Precisa un turno de carga.",
+        "Provoca Envenenamiento.",
+        "Provoca Paralisis.",
+        "Provoca Sueño.",
+        "Golpea seguidamente durante 2 o 3 turnos, en los cuales no puede cambiar de ataque ni ser intercambiado. Al final de estos turnos, el Pokemon pasara a estar confuso.",
+        "Baja la Velocidad un nivel al rival.",
+        "Causa un daño de 40 PS sin aplicar la formula del daño.",
+        "El rival permanece atrapado de 2 a 5 turnos, recibiendo un daño del 6.25% del PS cada turno.\nEl rival permanece inmovilizado de 2 a 5 turnos, recibiendo un daño del 6.25% del PS cada turno.",
+        "10% de paralizar al rival.",
+        "10% de paralizar al rival.",
+        "Provoca Paralisis.",
+        "30% de paralizar al rival. Afecta incluso cuando el rival usa Vuelo o Bote. Este ataque no fallara durante una Llovizna, y ademas tendra un 30% de precision aunque el rival use Proteccion o Deteccion, pero su precision sera del 50% durante un Bochorno.\n30% de paralizar al rival. Afecta incluso cuando el rival usa Vuelo o Bote. Este ataque no fallara durante una Llovizna, pero su precision sera del 50% durante un Bochorno.",
+        "Ninguno.",
+        "Doble daño si el rival usa Excavar.",
+        "Puede debilitar al Pokemon rival directamente. Los Pokemon que esten usando Excavar pueden ser afectados.",
+        "Efecto 256. Se prepara un turno bajo tierra. Permite escapar de una cueva al Centro Pokemon mas cercano.",
+        "Provoca Intoxicacion.",
+        "10% de confundir al rival.",
+        "10% de bajar la Def. Especial un nivel al rival.\n30% de bajar la Def. Especial un nivel al rival.",
+        "Provoca Sueño.",
+        "Aumenta un nivel el Ataque.",
+        "Aumenta dos niveles la Velocidad.",
+        "Golpea primero.",
+        "El Pokemon entra en estado de furia y solo puede usar este movimiento durante la batalla. Cada vez que sea golpeado, su Ataque aumenta un nivel.",
+        "Termina la batalla contra Pokemon salvaje. Permite escapar de una ruta al Centro Pokemon mas cercano.",
+        "Causa un daño equivalente al nivel del usuario en PS sin aplicar la formula del daño.",
+        "Copia temporalmente el \u00faltimo ataque utilizado por el Pokemon rival.\nCopia temporalmente el ataque del Pokemon rival que t\u00fa elijas (al azar en Batalla Link).",
+        "Baja la Defensa dos niveles al rival.",
+        "Aumenta un nivel la Evasion.",
+        "Recupera la mitad del PS maximo al Pokemon.",
+        "Aumenta un nivel la Defensa.",
+        "Aumenta un nivel la Evasion. El Pokemon recibe el doble de daño de Pisoton y Paranormal.",
+        "Baja la Precision un nivel al rival.",
+        "Provoca Confusion.",
+        "Aumenta un nivel la Defensa.",
+        "Aumenta un nivel la Defensa. Duplica el poder base de Desenrollar.\nAumenta un nivel la Defensa.",
+        "Aumenta dos niveles la Defensa.",
+        "Defensa Especial x1.5 durante 5 turnos (x1.33 en 2vs2).",
+        "Resetea todos los potenciadores positivos y negativos de stats\nResetea todos los potenciadores positivos y negativos de stats. Tambien Reflejo, Pantalla Luz, Neblina y todo cambio de estado que afecte al rival, incluyendo confusion y Drenadoras.",
+        "Defensa x1.5 durante 5 turnos (x1.33 en 2vs2).",
+        "Aumenta el ratio de Golpe Critico.\nDisminuye las probabilidades de realizar Golpe Critico (fallo del juego corregido en Stadium).",
+        "Aguanta todos los golpes de su rival durante 2 turnos, para luego causarle un daño en PS equivalente al doble del recibido por el.\nAguanta todos los golpes de su rival durante 2 o 3 turnos, para luego causarle un daño en PS equivalente al doble del recibido por el. Afecta a Pokemon Fantasma aun siendo ataque Normal.",
+        "Usa un movimiento al azar, salvo excepciones.",
+        "Usa el \u00faltimo movimiento que ha utilizado el Pokemon rival, salvo excepciones.",
+        "El usuario cae debilitado. La Defensa de los Pokemon golpeados se divide por la mitad en la formula del daño. El movimiento fallara si su objetivo desaparece.",
+        "Ninguno.",
+        "30% de paralizar al rival.",
+        "40% de envenenar al rival.",
+        "30% de envenenar al rival.",
+        "Puede hacer retroceder al rival.",
+        "10% de quemar al rival.",
+        "Puede hacer retroceder al rival. Permite subir por cascadas.",
+        "El rival permanece atrapado de 2 a 5 turnos, recibiendo un daño del 6.25% del PS cada turno.\nEl rival permanece inmovilizado de 2 a 5 turnos, recibiendo un daño del 6.25% del PS cada turno.",
+        "Siempre golpea.",
+        "Aumenta un nivel la Defensa el primer turno. Ataca en el segundo turno.\nSe prepara el primer turno. Ataca en el segundo turno.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "10% de reducir la Velocidad un nivel al rival.",
+        "Aumenta dos niveles la Defensa Especial.",
+        "Baja la Precision un nivel al rival.",
+        "Recupera la mitad del PS maximo al Pokemon. Retira el 20% del PS maximo del Pokemon y se lo entrega a otro Pokemon del equipo.",
+        "Si el ataque falla, recibe un daño de caida equivalente al 12.5% del daño que habria provocado al rival. Afecta incluso cuando el rival usa Vuelo o Bote.",
+        "Provoca Paralisis.",
+        "Restaura PS equivalente a la mitad del daño hecho al rival. Surte efectos solo si el objetivo esta dormido.",
+        "Provoca Envenenamiento.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "El usuario recupera PS equivalente a la mitad del daño causado.",
+        "Provoca Sueño.",
+        "Se prepara el primer turno para atacar en el segundo. Puede hacer retroceder al rival.\nSe prepara el primer turno para atacar en el segundo.",
+        "Hace una copia casi identica del Pokemon objetivo, incluyendo stats (salvo PS), apariencia, movimientos (con 5 PP) y habilidades.",
+        "10% de bajar la Velocidad un nivel al rival.",
+        "20% de confundir al rival.\nNinguno.",
+        "Provoca Sueño.",
+        "Baja un nivel la Precision del rival. Permite iluminar zonas oscuras.",
+        "Poder base al azar entre 1 y 1.5 x Nivel del Pokemon.",
+        "Ninguno.",
+        "Aumenta dos niveles la Defensa.",
+        "Alta probabilidad de Golpe Critico.",
+        "El usuario cae debilitado. La Defensa de los Pokemon golpeados se divide por la mitad en la formula del daño. El movimiento fallara si su objetivo desaparece.",
+        "Golpea de 2 a 5 veces seguidas.",
+        "Golpea de 2 veces seguidas.",
+        "Duerme al usuario por 2 turnos y recupera todo su PS.",
+        "Puede hacer retroceder al rival.",
+        "Puede hacer retroceder al rival.",
+        "Aumenta un nivel el Ataque.",
+        "El tipo Pokemon del usuario cambia al tipo de uno de sus movimientos al azar (Poder Oculto cuenta como Normal, Maldicion es ignorado).\nEl tipo Pokemon del usuario cambia a los tipos del Pokemon rival.",
+        "20% de quemar, congelar o paralizar al rival. \u00danico movimiento de quemar a Pokemon de tipo Fuego o congelar a Pokemon de tipo Hielo.\nNinguno.",
+        "Arrebata la mitad del PS restante al rival.",
+        "Alta probabilidad de Golpe Critico.",
+        "Crea un Sustituto con el 25% del PS maximo del usuario.",
+        "Provoca un daño de retroceso equivalente al 25% del daño causado. Aunque sea de tipo Normal, puede dañar a fantasmas. Este movimiento puede ser utilizado en un número ilimitado de veces por cualquier especie Pokémon sin excepción, pero sólo cuando el Pokémon haya agotado los PP de todos sus demás movimientos. Este movimiento no ocupa hueco en los movimientos ordinarios del Pokémon."
+    ]
+}

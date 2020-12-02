@@ -1,0 +1,2267 @@
+{
+    "Bulbasaur": {
+        "ID": 1,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 45,
+            "Ataque": 49,
+            "Defensa": 49,
+            "Ataque Especial": 65,
+            "Defensa Especial": 65,
+            "Velocidad": 45
+        }
+    },
+    "Ivysaur": {
+        "ID": 2,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 62,
+            "Defensa": 63,
+            "Ataque Especial": 80,
+            "Defensa Especial": 80,
+            "Velocidad": 60
+        }
+    },
+    "Venusaur": {
+        "ID": 3,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 82,
+            "Defensa": 83,
+            "Ataque Especial": 100,
+            "Defensa Especial": 100,
+            "Velocidad": 80
+        }
+    },
+    "Charmander": {
+        "ID": 4,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 39,
+            "Ataque": 52,
+            "Defensa": 43,
+            "Ataque Especial": 60,
+            "Defensa Especial": 50,
+            "Velocidad": 65
+        }
+    },
+    "Charmeleon": {
+        "ID": 5,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 58,
+            "Ataque": 64,
+            "Defensa": 58,
+            "Ataque Especial": 80,
+            "Defensa Especial": 65,
+            "Velocidad": 80
+        }
+    },
+    "Charizard": {
+        "ID": 6,
+        "TIPOS": [
+            "Fuego",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 78,
+            "Ataque": 84,
+            "Defensa": 78,
+            "Ataque Especial": 109,
+            "Defensa Especial": 85,
+            "Velocidad": 100
+        }
+    },
+    "Squirtle": {
+        "ID": 7,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 44,
+            "Ataque": 48,
+            "Defensa": 65,
+            "Ataque Especial": 50,
+            "Defensa Especial": 64,
+            "Velocidad": 43
+        }
+    },
+    "Wartortle": {
+        "ID": 8,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 59,
+            "Ataque": 63,
+            "Defensa": 80,
+            "Ataque Especial": 65,
+            "Defensa Especial": 80,
+            "Velocidad": 58
+        }
+    },
+    "Blastoise": {
+        "ID": 9,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 79,
+            "Ataque": 83,
+            "Defensa": 100,
+            "Ataque Especial": 85,
+            "Defensa Especial": 105,
+            "Velocidad": 78
+        }
+    },
+    "Caterpie": {
+        "ID": 10,
+        "TIPOS": [
+            "Bicho",
+            null
+        ],
+        "STATS": {
+            "HP": 45,
+            "Ataque": 30,
+            "Defensa": 35,
+            "Ataque Especial": 20,
+            "Defensa Especial": 20,
+            "Velocidad": 45
+        }
+    },
+    "Metapod": {
+        "ID": 11,
+        "TIPOS": [
+            "Bicho",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 20,
+            "Defensa": 55,
+            "Ataque Especial": 25,
+            "Defensa Especial": 25,
+            "Velocidad": 30
+        }
+    },
+    "Butterfree": {
+        "ID": 12,
+        "TIPOS": [
+            "Bicho",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 45,
+            "Defensa": 50,
+            "Ataque Especial": 90,
+            "Defensa Especial": 80,
+            "Velocidad": 70
+        }
+    },
+    "Weedle": {
+        "ID": 13,
+        "TIPOS": [
+            "Bicho",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 35,
+            "Defensa": 30,
+            "Ataque Especial": 20,
+            "Defensa Especial": 20,
+            "Velocidad": 50
+        }
+    },
+    "Kakuna": {
+        "ID": 14,
+        "TIPOS": [
+            "Bicho",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 45,
+            "Ataque": 25,
+            "Defensa": 50,
+            "Ataque Especial": 25,
+            "Defensa Especial": 25,
+            "Velocidad": 35
+        }
+    },
+    "Beedrill": {
+        "ID": 15,
+        "TIPOS": [
+            "Bicho",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 90,
+            "Defensa": 40,
+            "Ataque Especial": 45,
+            "Defensa Especial": 80,
+            "Velocidad": 75
+        }
+    },
+    "Pidgey": {
+        "ID": 16,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 45,
+            "Defensa": 40,
+            "Ataque Especial": 35,
+            "Defensa Especial": 35,
+            "Velocidad": 56
+        }
+    },
+    "Pidgeotto": {
+        "ID": 17,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 63,
+            "Ataque": 60,
+            "Defensa": 55,
+            "Ataque Especial": 50,
+            "Defensa Especial": 50,
+            "Velocidad": 71
+        }
+    },
+    "Pidgeot": {
+        "ID": 18,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 83,
+            "Ataque": 80,
+            "Defensa": 75,
+            "Ataque Especial": 70,
+            "Defensa Especial": 70,
+            "Velocidad": 101
+        }
+    },
+    "Rattata": {
+        "ID": 19,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 56,
+            "Defensa": 35,
+            "Ataque Especial": 25,
+            "Defensa Especial": 35,
+            "Velocidad": 72
+        }
+    },
+    "Raticate": {
+        "ID": 20,
+        "TIPOS": [
+            "Normal",
+            "Siniestro"
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 81,
+            "Defensa": 60,
+            "Ataque Especial": 50,
+            "Defensa Especial": 70,
+            "Velocidad": 97
+        }
+    },
+    "Spearow": {
+        "ID": 21,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 60,
+            "Defensa": 30,
+            "Ataque Especial": 31,
+            "Defensa Especial": 31,
+            "Velocidad": 70
+        }
+    },
+    "Fearow": {
+        "ID": 22,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 90,
+            "Defensa": 65,
+            "Ataque Especial": 61,
+            "Defensa Especial": 61,
+            "Velocidad": 100
+        }
+    },
+    "Ekans": {
+        "ID": 23,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 60,
+            "Defensa": 44,
+            "Ataque Especial": 40,
+            "Defensa Especial": 54,
+            "Velocidad": 55
+        }
+    },
+    "Arbok": {
+        "ID": 24,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 95,
+            "Defensa": 69,
+            "Ataque Especial": 65,
+            "Defensa Especial": 79,
+            "Velocidad": 80
+        }
+    },
+    "Pikachu": {
+        "ID": 25,
+        "TIPOS": [
+            "Electrico",
+            null
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 55,
+            "Defensa": 40,
+            "Ataque Especial": 50,
+            "Defensa Especial": 50,
+            "Velocidad": 90
+        }
+    },
+    "Raichu": {
+        "ID": 26,
+        "TIPOS": [
+            "Electrico",
+            null
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 90,
+            "Defensa": 55,
+            "Ataque Especial": 90,
+            "Defensa Especial": 80,
+            "Velocidad": 110
+        }
+    },
+    "Sandshrew": {
+        "ID": 27,
+        "TIPOS": [
+            "Tierra",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 75,
+            "Defensa": 85,
+            "Ataque Especial": 20,
+            "Defensa Especial": 30,
+            "Velocidad": 40
+        }
+    },
+    "Sandslash": {
+        "ID": 28,
+        "TIPOS": [
+            "Tierra",
+            "Acero"
+        ],
+        "STATS": {
+            "HP": 75,
+            "Ataque": 100,
+            "Defensa": 110,
+            "Ataque Especial": 45,
+            "Defensa Especial": 55,
+            "Velocidad": 65
+        }
+    },
+    "Nidoran\u2640": {
+        "ID": 29,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 47,
+            "Defensa": 52,
+            "Ataque Especial": 40,
+            "Defensa Especial": 40,
+            "Velocidad": 41
+        }
+    },
+    "Nidorina": {
+        "ID": 30,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 70,
+            "Ataque": 62,
+            "Defensa": 67,
+            "Ataque Especial": 55,
+            "Defensa Especial": 55,
+            "Velocidad": 56
+        }
+    },
+    "Nidoqueen": {
+        "ID": 31,
+        "TIPOS": [
+            "Veneno",
+            "Tierra"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 92,
+            "Defensa": 87,
+            "Ataque Especial": 75,
+            "Defensa Especial": 85,
+            "Velocidad": 76
+        }
+    },
+    "Nidoran\u2642": {
+        "ID": 32,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 46,
+            "Ataque": 57,
+            "Defensa": 40,
+            "Ataque Especial": 40,
+            "Defensa Especial": 40,
+            "Velocidad": 50
+        }
+    },
+    "Nidorino": {
+        "ID": 33,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 61,
+            "Ataque": 72,
+            "Defensa": 57,
+            "Ataque Especial": 55,
+            "Defensa Especial": 55,
+            "Velocidad": 65
+        }
+    },
+    "Nidoking": {
+        "ID": 34,
+        "TIPOS": [
+            "Veneno",
+            "Tierra"
+        ],
+        "STATS": {
+            "HP": 81,
+            "Ataque": 102,
+            "Defensa": 77,
+            "Ataque Especial": 85,
+            "Defensa Especial": 75,
+            "Velocidad": 85
+        }
+    },
+    "Clefairy": {
+        "ID": 35,
+        "TIPOS": [
+            "Hada",
+            null
+        ],
+        "STATS": {
+            "HP": 70,
+            "Ataque": 45,
+            "Defensa": 48,
+            "Ataque Especial": 60,
+            "Defensa Especial": 65,
+            "Velocidad": 35
+        }
+    },
+    "Clefable": {
+        "ID": 36,
+        "TIPOS": [
+            "Hada",
+            null
+        ],
+        "STATS": {
+            "HP": 95,
+            "Ataque": 70,
+            "Defensa": 73,
+            "Ataque Especial": 95,
+            "Defensa Especial": 90,
+            "Velocidad": 60
+        }
+    },
+    "Vulpix": {
+        "ID": 37,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 38,
+            "Ataque": 41,
+            "Defensa": 40,
+            "Ataque Especial": 50,
+            "Defensa Especial": 65,
+            "Velocidad": 65
+        }
+    },
+    "Ninetales": {
+        "ID": 38,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 73,
+            "Ataque": 76,
+            "Defensa": 75,
+            "Ataque Especial": 81,
+            "Defensa Especial": 100,
+            "Velocidad": 100
+        }
+    },
+    "Jigglypuff": {
+        "ID": 39,
+        "TIPOS": [
+            "Normal",
+            "Hada"
+        ],
+        "STATS": {
+            "HP": 115,
+            "Ataque": 45,
+            "Defensa": 20,
+            "Ataque Especial": 45,
+            "Defensa Especial": 25,
+            "Velocidad": 20
+        }
+    },
+    "Wigglytuff": {
+        "ID": 40,
+        "TIPOS": [
+            "Normal",
+            "Hada"
+        ],
+        "STATS": {
+            "HP": 140,
+            "Ataque": 70,
+            "Defensa": 45,
+            "Ataque Especial": 85,
+            "Defensa Especial": 50,
+            "Velocidad": 45
+        }
+    },
+    "Zubat": {
+        "ID": 41,
+        "TIPOS": [
+            "Veneno",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 45,
+            "Defensa": 35,
+            "Ataque Especial": 30,
+            "Defensa Especial": 40,
+            "Velocidad": 55
+        }
+    },
+    "Golbat": {
+        "ID": 42,
+        "TIPOS": [
+            "Veneno",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 75,
+            "Ataque": 80,
+            "Defensa": 70,
+            "Ataque Especial": 65,
+            "Defensa Especial": 75,
+            "Velocidad": 90
+        }
+    },
+    "Oddish": {
+        "ID": 43,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 45,
+            "Ataque": 50,
+            "Defensa": 55,
+            "Ataque Especial": 75,
+            "Defensa Especial": 65,
+            "Velocidad": 30
+        }
+    },
+    "Gloom": {
+        "ID": 44,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 65,
+            "Defensa": 70,
+            "Ataque Especial": 85,
+            "Defensa Especial": 75,
+            "Velocidad": 40
+        }
+    },
+    "Vileplume": {
+        "ID": 45,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 75,
+            "Ataque": 80,
+            "Defensa": 85,
+            "Ataque Especial": 110,
+            "Defensa Especial": 90,
+            "Velocidad": 50
+        }
+    },
+    "Paras": {
+        "ID": 46,
+        "TIPOS": [
+            "Bicho",
+            "Planta"
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 70,
+            "Defensa": 55,
+            "Ataque Especial": 45,
+            "Defensa Especial": 55,
+            "Velocidad": 25
+        }
+    },
+    "Parasect": {
+        "ID": 47,
+        "TIPOS": [
+            "Bicho",
+            "Planta"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 95,
+            "Defensa": 80,
+            "Ataque Especial": 60,
+            "Defensa Especial": 80,
+            "Velocidad": 30
+        }
+    },
+    "Venonat": {
+        "ID": 48,
+        "TIPOS": [
+            "Bicho",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 55,
+            "Defensa": 50,
+            "Ataque Especial": 40,
+            "Defensa Especial": 55,
+            "Velocidad": 45
+        }
+    },
+    "Venomoth": {
+        "ID": 49,
+        "TIPOS": [
+            "Bicho",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 70,
+            "Ataque": 65,
+            "Defensa": 60,
+            "Ataque Especial": 90,
+            "Defensa Especial": 75,
+            "Velocidad": 90
+        }
+    },
+    "Diglett": {
+        "ID": 50,
+        "TIPOS": [
+            "Tierra",
+            null
+        ],
+        "STATS": {
+            "HP": 10,
+            "Ataque": 55,
+            "Defensa": 25,
+            "Ataque Especial": 35,
+            "Defensa Especial": 45,
+            "Velocidad": 95
+        }
+    },
+    "Dugtrio": {
+        "ID": 51,
+        "TIPOS": [
+            "Tierra",
+            "Acero"
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 100,
+            "Defensa": 50,
+            "Ataque Especial": 50,
+            "Defensa Especial": 70,
+            "Velocidad": 120
+        }
+    },
+    "Meowth": {
+        "ID": 52,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 45,
+            "Defensa": 35,
+            "Ataque Especial": 40,
+            "Defensa Especial": 40,
+            "Velocidad": 90
+        }
+    },
+    "Persian": {
+        "ID": 53,
+        "TIPOS": [
+            "Normal",
+            "Siniestro"
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 70,
+            "Defensa": 60,
+            "Ataque Especial": 65,
+            "Defensa Especial": 65,
+            "Velocidad": 115
+        }
+    },
+    "Psyduck": {
+        "ID": 54,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 52,
+            "Defensa": 48,
+            "Ataque Especial": 65,
+            "Defensa Especial": 50,
+            "Velocidad": 55
+        }
+    },
+    "Golduck": {
+        "ID": 55,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 82,
+            "Defensa": 78,
+            "Ataque Especial": 95,
+            "Defensa Especial": 80,
+            "Velocidad": 85
+        }
+    },
+    "Mankey": {
+        "ID": 56,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 80,
+            "Defensa": 35,
+            "Ataque Especial": 35,
+            "Defensa Especial": 45,
+            "Velocidad": 70
+        }
+    },
+    "Primeape": {
+        "ID": 57,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 105,
+            "Defensa": 60,
+            "Ataque Especial": 60,
+            "Defensa Especial": 70,
+            "Velocidad": 95
+        }
+    },
+    "Growlithe": {
+        "ID": 58,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 70,
+            "Defensa": 45,
+            "Ataque Especial": 70,
+            "Defensa Especial": 50,
+            "Velocidad": 60
+        }
+    },
+    "Arcanine": {
+        "ID": 59,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 110,
+            "Defensa": 80,
+            "Ataque Especial": 100,
+            "Defensa Especial": 80,
+            "Velocidad": 95
+        }
+    },
+    "Poliwag": {
+        "ID": 60,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 50,
+            "Defensa": 40,
+            "Ataque Especial": 40,
+            "Defensa Especial": 40,
+            "Velocidad": 90
+        }
+    },
+    "Poliwhirl": {
+        "ID": 61,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 65,
+            "Defensa": 65,
+            "Ataque Especial": 50,
+            "Defensa Especial": 50,
+            "Velocidad": 90
+        }
+    },
+    "Poliwrath": {
+        "ID": 62,
+        "TIPOS": [
+            "Agua",
+            "Lucha"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 95,
+            "Defensa": 95,
+            "Ataque Especial": 70,
+            "Defensa Especial": 90,
+            "Velocidad": 70
+        }
+    },
+    "Abra": {
+        "ID": 63,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 25,
+            "Ataque": 20,
+            "Defensa": 15,
+            "Ataque Especial": 105,
+            "Defensa Especial": 55,
+            "Velocidad": 90
+        }
+    },
+    "Kadabra": {
+        "ID": 64,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 35,
+            "Defensa": 30,
+            "Ataque Especial": 120,
+            "Defensa Especial": 70,
+            "Velocidad": 105
+        }
+    },
+    "Alakazam": {
+        "ID": 65,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 50,
+            "Defensa": 45,
+            "Ataque Especial": 135,
+            "Defensa Especial": 95,
+            "Velocidad": 120
+        }
+    },
+    "Machop": {
+        "ID": 66,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 70,
+            "Ataque": 80,
+            "Defensa": 50,
+            "Ataque Especial": 35,
+            "Defensa Especial": 35,
+            "Velocidad": 35
+        }
+    },
+    "Machoke": {
+        "ID": 67,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 100,
+            "Defensa": 70,
+            "Ataque Especial": 50,
+            "Defensa Especial": 60,
+            "Velocidad": 45
+        }
+    },
+    "Machamp": {
+        "ID": 68,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 130,
+            "Defensa": 80,
+            "Ataque Especial": 65,
+            "Defensa Especial": 85,
+            "Velocidad": 55
+        }
+    },
+    "Bellsprout": {
+        "ID": 69,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 75,
+            "Defensa": 35,
+            "Ataque Especial": 70,
+            "Defensa Especial": 30,
+            "Velocidad": 40
+        }
+    },
+    "Weepinbell": {
+        "ID": 70,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 90,
+            "Defensa": 50,
+            "Ataque Especial": 85,
+            "Defensa Especial": 45,
+            "Velocidad": 55
+        }
+    },
+    "Victreebel": {
+        "ID": 71,
+        "TIPOS": [
+            "Planta",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 105,
+            "Defensa": 65,
+            "Ataque Especial": 100,
+            "Defensa Especial": 70,
+            "Velocidad": 70
+        }
+    },
+    "Tentacool": {
+        "ID": 72,
+        "TIPOS": [
+            "Agua",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 40,
+            "Defensa": 35,
+            "Ataque Especial": 50,
+            "Defensa Especial": 100,
+            "Velocidad": 70
+        }
+    },
+    "Tentacruel": {
+        "ID": 73,
+        "TIPOS": [
+            "Agua",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 70,
+            "Defensa": 65,
+            "Ataque Especial": 80,
+            "Defensa Especial": 120,
+            "Velocidad": 100
+        }
+    },
+    "Geodude": {
+        "ID": 74,
+        "TIPOS": [
+            "Roca",
+            "Tierra"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 80,
+            "Defensa": 100,
+            "Ataque Especial": 30,
+            "Defensa Especial": 30,
+            "Velocidad": 20
+        }
+    },
+    "Graveler": {
+        "ID": 75,
+        "TIPOS": [
+            "Roca",
+            "Tierra"
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 95,
+            "Defensa": 115,
+            "Ataque Especial": 45,
+            "Defensa Especial": 45,
+            "Velocidad": 35
+        }
+    },
+    "Golem": {
+        "ID": 76,
+        "TIPOS": [
+            "Roca",
+            "Tierra"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 120,
+            "Defensa": 130,
+            "Ataque Especial": 55,
+            "Defensa Especial": 65,
+            "Velocidad": 45
+        }
+    },
+    "Ponyta": {
+        "ID": 77,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 85,
+            "Defensa": 55,
+            "Ataque Especial": 65,
+            "Defensa Especial": 65,
+            "Velocidad": 90
+        }
+    },
+    "Rapidash": {
+        "ID": 78,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 100,
+            "Defensa": 70,
+            "Ataque Especial": 80,
+            "Defensa Especial": 80,
+            "Velocidad": 105
+        }
+    },
+    "Slowpoke": {
+        "ID": 79,
+        "TIPOS": [
+            "Agua",
+            "Psiquico"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 65,
+            "Defensa": 65,
+            "Ataque Especial": 40,
+            "Defensa Especial": 40,
+            "Velocidad": 15
+        }
+    },
+    "Slowbro": {
+        "ID": 80,
+        "TIPOS": [
+            "Agua",
+            "Psiquico"
+        ],
+        "STATS": {
+            "HP": 95,
+            "Ataque": 75,
+            "Defensa": 110,
+            "Ataque Especial": 100,
+            "Defensa Especial": 80,
+            "Velocidad": 30
+        }
+    },
+    "Magnemite": {
+        "ID": 81,
+        "TIPOS": [
+            "Electrico",
+            "Acero"
+        ],
+        "STATS": {
+            "HP": 25,
+            "Ataque": 35,
+            "Defensa": 70,
+            "Ataque Especial": 95,
+            "Defensa Especial": 55,
+            "Velocidad": 45
+        }
+    },
+    "Magneton": {
+        "ID": 82,
+        "TIPOS": [
+            "Electrico",
+            "Acero"
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 60,
+            "Defensa": 95,
+            "Ataque Especial": 120,
+            "Defensa Especial": 70,
+            "Velocidad": 70
+        }
+    },
+    "Farfetch'd": {
+        "ID": 83,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 52,
+            "Ataque": 90,
+            "Defensa": 55,
+            "Ataque Especial": 58,
+            "Defensa Especial": 62,
+            "Velocidad": 60
+        }
+    },
+    "Doduo": {
+        "ID": 84,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 85,
+            "Defensa": 45,
+            "Ataque Especial": 35,
+            "Defensa Especial": 35,
+            "Velocidad": 75
+        }
+    },
+    "Dodrio": {
+        "ID": 85,
+        "TIPOS": [
+            "Normal",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 110,
+            "Defensa": 70,
+            "Ataque Especial": 60,
+            "Defensa Especial": 60,
+            "Velocidad": 110
+        }
+    },
+    "Seel": {
+        "ID": 86,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 45,
+            "Defensa": 55,
+            "Ataque Especial": 45,
+            "Defensa Especial": 70,
+            "Velocidad": 45
+        }
+    },
+    "Dewgong": {
+        "ID": 87,
+        "TIPOS": [
+            "Agua",
+            "Hielo"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 70,
+            "Defensa": 80,
+            "Ataque Especial": 70,
+            "Defensa Especial": 95,
+            "Velocidad": 70
+        }
+    },
+    "Grimer": {
+        "ID": 88,
+        "TIPOS": [
+            "Veneno",
+            "Siniestro"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 80,
+            "Defensa": 50,
+            "Ataque Especial": 40,
+            "Defensa Especial": 50,
+            "Velocidad": 25
+        }
+    },
+    "Muk": {
+        "ID": 89,
+        "TIPOS": [
+            "Veneno",
+            "Siniestro"
+        ],
+        "STATS": {
+            "HP": 105,
+            "Ataque": 105,
+            "Defensa": 75,
+            "Ataque Especial": 65,
+            "Defensa Especial": 100,
+            "Velocidad": 50
+        }
+    },
+    "Shellder": {
+        "ID": 90,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 65,
+            "Defensa": 100,
+            "Ataque Especial": 45,
+            "Defensa Especial": 25,
+            "Velocidad": 40
+        }
+    },
+    "Cloyster": {
+        "ID": 91,
+        "TIPOS": [
+            "Agua",
+            "Hielo"
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 95,
+            "Defensa": 180,
+            "Ataque Especial": 85,
+            "Defensa Especial": 45,
+            "Velocidad": 70
+        }
+    },
+    "Gastly": {
+        "ID": 92,
+        "TIPOS": [
+            "Fantasma",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 35,
+            "Defensa": 30,
+            "Ataque Especial": 100,
+            "Defensa Especial": 35,
+            "Velocidad": 80
+        }
+    },
+    "Haunter": {
+        "ID": 93,
+        "TIPOS": [
+            "Fantasma",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 45,
+            "Ataque": 50,
+            "Defensa": 45,
+            "Ataque Especial": 115,
+            "Defensa Especial": 55,
+            "Velocidad": 95
+        }
+    },
+    "Gengar": {
+        "ID": 94,
+        "TIPOS": [
+            "Fantasma",
+            "Veneno"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 65,
+            "Defensa": 60,
+            "Ataque Especial": 130,
+            "Defensa Especial": 75,
+            "Velocidad": 110
+        }
+    },
+    "Onix": {
+        "ID": 95,
+        "TIPOS": [
+            "Roca",
+            "Tierra"
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 45,
+            "Defensa": 160,
+            "Ataque Especial": 30,
+            "Defensa Especial": 45,
+            "Velocidad": 70
+        }
+    },
+    "Drowzee": {
+        "ID": 96,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 48,
+            "Defensa": 45,
+            "Ataque Especial": 43,
+            "Defensa Especial": 90,
+            "Velocidad": 42
+        }
+    },
+    "Hypno": {
+        "ID": 97,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 85,
+            "Ataque": 73,
+            "Defensa": 70,
+            "Ataque Especial": 73,
+            "Defensa Especial": 115,
+            "Velocidad": 67
+        }
+    },
+    "Krabby": {
+        "ID": 98,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 105,
+            "Defensa": 90,
+            "Ataque Especial": 25,
+            "Defensa Especial": 25,
+            "Velocidad": 50
+        }
+    },
+    "Kingler": {
+        "ID": 99,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 130,
+            "Defensa": 115,
+            "Ataque Especial": 50,
+            "Defensa Especial": 50,
+            "Velocidad": 75
+        }
+    },
+    "Voltorb": {
+        "ID": 100,
+        "TIPOS": [
+            "Electrico",
+            null
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 30,
+            "Defensa": 50,
+            "Ataque Especial": 55,
+            "Defensa Especial": 55,
+            "Velocidad": 100
+        }
+    },
+    "Electrode": {
+        "ID": 101,
+        "TIPOS": [
+            "Electrico",
+            null
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 50,
+            "Defensa": 70,
+            "Ataque Especial": 80,
+            "Defensa Especial": 80,
+            "Velocidad": 150
+        }
+    },
+    "Exeggcute": {
+        "ID": 102,
+        "TIPOS": [
+            "Planta",
+            "Psiquico"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 40,
+            "Defensa": 80,
+            "Ataque Especial": 60,
+            "Defensa Especial": 45,
+            "Velocidad": 40
+        }
+    },
+    "Exeggutor": {
+        "ID": 103,
+        "TIPOS": [
+            "Planta",
+            "Psiquico"
+        ],
+        "STATS": {
+            "HP": 95,
+            "Ataque": 95,
+            "Defensa": 85,
+            "Ataque Especial": 125,
+            "Defensa Especial": 75,
+            "Velocidad": 55
+        }
+    },
+    "Cubone": {
+        "ID": 104,
+        "TIPOS": [
+            "Tierra",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 50,
+            "Defensa": 95,
+            "Ataque Especial": 40,
+            "Defensa Especial": 50,
+            "Velocidad": 35
+        }
+    },
+    "Marowak": {
+        "ID": 105,
+        "TIPOS": [
+            "Tierra",
+            null
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 80,
+            "Defensa": 110,
+            "Ataque Especial": 50,
+            "Defensa Especial": 80,
+            "Velocidad": 45
+        }
+    },
+    "Hitmonlee": {
+        "ID": 106,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 120,
+            "Defensa": 53,
+            "Ataque Especial": 35,
+            "Defensa Especial": 110,
+            "Velocidad": 87
+        }
+    },
+    "Hitmonchan": {
+        "ID": 107,
+        "TIPOS": [
+            "Lucha",
+            null
+        ],
+        "STATS": {
+            "HP": 50,
+            "Ataque": 105,
+            "Defensa": 79,
+            "Ataque Especial": 35,
+            "Defensa Especial": 110,
+            "Velocidad": 76
+        }
+    },
+    "Lickitung": {
+        "ID": 108,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 55,
+            "Defensa": 75,
+            "Ataque Especial": 60,
+            "Defensa Especial": 75,
+            "Velocidad": 30
+        }
+    },
+    "Koffing": {
+        "ID": 109,
+        "TIPOS": [
+            "Veneno",
+            null
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 65,
+            "Defensa": 95,
+            "Ataque Especial": 60,
+            "Defensa Especial": 45,
+            "Velocidad": 35
+        }
+    },
+    "Weezing": {
+        "ID": 110,
+        "TIPOS": [
+            "Veneno",
+            "Siniestro"
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 90,
+            "Defensa": 120,
+            "Ataque Especial": 85,
+            "Defensa Especial": 70,
+            "Velocidad": 60
+        }
+    },
+    "Rhyhorn": {
+        "ID": 111,
+        "TIPOS": [
+            "Tierra",
+            "Roca"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 85,
+            "Defensa": 95,
+            "Ataque Especial": 30,
+            "Defensa Especial": 30,
+            "Velocidad": 25
+        }
+    },
+    "Rhydon": {
+        "ID": 112,
+        "TIPOS": [
+            "Tierra",
+            "Roca"
+        ],
+        "STATS": {
+            "HP": 105,
+            "Ataque": 130,
+            "Defensa": 120,
+            "Ataque Especial": 45,
+            "Defensa Especial": 45,
+            "Velocidad": 40
+        }
+    },
+    "Chansey": {
+        "ID": 113,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 250,
+            "Ataque": 5,
+            "Defensa": 5,
+            "Ataque Especial": 35,
+            "Defensa Especial": 105,
+            "Velocidad": 50
+        }
+    },
+    "Tangela": {
+        "ID": 114,
+        "TIPOS": [
+            "Planta",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 55,
+            "Defensa": 115,
+            "Ataque Especial": 100,
+            "Defensa Especial": 40,
+            "Velocidad": 60
+        }
+    },
+    "Kangaskhan": {
+        "ID": 115,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 105,
+            "Ataque": 95,
+            "Defensa": 80,
+            "Ataque Especial": 40,
+            "Defensa Especial": 80,
+            "Velocidad": 90
+        }
+    },
+    "Horsea": {
+        "ID": 116,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 40,
+            "Defensa": 70,
+            "Ataque Especial": 70,
+            "Defensa Especial": 25,
+            "Velocidad": 60
+        }
+    },
+    "Seadra": {
+        "ID": 117,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 65,
+            "Defensa": 95,
+            "Ataque Especial": 95,
+            "Defensa Especial": 45,
+            "Velocidad": 85
+        }
+    },
+    "Goldeen": {
+        "ID": 118,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 45,
+            "Ataque": 67,
+            "Defensa": 60,
+            "Ataque Especial": 35,
+            "Defensa Especial": 50,
+            "Velocidad": 63
+        }
+    },
+    "Seaking": {
+        "ID": 119,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 92,
+            "Defensa": 65,
+            "Ataque Especial": 65,
+            "Defensa Especial": 80,
+            "Velocidad": 68
+        }
+    },
+    "Staryu": {
+        "ID": 120,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 45,
+            "Defensa": 55,
+            "Ataque Especial": 70,
+            "Defensa Especial": 55,
+            "Velocidad": 85
+        }
+    },
+    "Starmie": {
+        "ID": 121,
+        "TIPOS": [
+            "Agua",
+            "Psiquico"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 75,
+            "Defensa": 85,
+            "Ataque Especial": 100,
+            "Defensa Especial": 85,
+            "Velocidad": 115
+        }
+    },
+    "Mr. Mime": {
+        "ID": 122,
+        "TIPOS": [
+            "Psiquico",
+            "Hada"
+        ],
+        "STATS": {
+            "HP": 40,
+            "Ataque": 45,
+            "Defensa": 65,
+            "Ataque Especial": 100,
+            "Defensa Especial": 120,
+            "Velocidad": 90
+        }
+    },
+    "Scyther": {
+        "ID": 123,
+        "TIPOS": [
+            "Bicho",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 70,
+            "Ataque": 110,
+            "Defensa": 80,
+            "Ataque Especial": 55,
+            "Defensa Especial": 80,
+            "Velocidad": 105
+        }
+    },
+    "Jynx": {
+        "ID": 124,
+        "TIPOS": [
+            "Hielo",
+            "Psiquico"
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 50,
+            "Defensa": 35,
+            "Ataque Especial": 115,
+            "Defensa Especial": 95,
+            "Velocidad": 95
+        }
+    },
+    "Electabuzz": {
+        "ID": 125,
+        "TIPOS": [
+            "Electrico",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 83,
+            "Defensa": 57,
+            "Ataque Especial": 95,
+            "Defensa Especial": 85,
+            "Velocidad": 105
+        }
+    },
+    "Magmar": {
+        "ID": 126,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 95,
+            "Defensa": 57,
+            "Ataque Especial": 100,
+            "Defensa Especial": 85,
+            "Velocidad": 93
+        }
+    },
+    "Pinsir": {
+        "ID": 127,
+        "TIPOS": [
+            "Bicho",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 125,
+            "Defensa": 100,
+            "Ataque Especial": 55,
+            "Defensa Especial": 70,
+            "Velocidad": 85
+        }
+    },
+    "Tauros": {
+        "ID": 128,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 75,
+            "Ataque": 100,
+            "Defensa": 95,
+            "Ataque Especial": 40,
+            "Defensa Especial": 70,
+            "Velocidad": 110
+        }
+    },
+    "Magikarp": {
+        "ID": 129,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 20,
+            "Ataque": 10,
+            "Defensa": 55,
+            "Ataque Especial": 15,
+            "Defensa Especial": 20,
+            "Velocidad": 80
+        }
+    },
+    "Gyarados": {
+        "ID": 130,
+        "TIPOS": [
+            "Agua",
+            "Siniestro"
+        ],
+        "STATS": {
+            "HP": 95,
+            "Ataque": 125,
+            "Defensa": 79,
+            "Ataque Especial": 60,
+            "Defensa Especial": 100,
+            "Velocidad": 81
+        }
+    },
+    "Lapras": {
+        "ID": 131,
+        "TIPOS": [
+            "Agua",
+            "Hielo"
+        ],
+        "STATS": {
+            "HP": 130,
+            "Ataque": 85,
+            "Defensa": 80,
+            "Ataque Especial": 85,
+            "Defensa Especial": 95,
+            "Velocidad": 60
+        }
+    },
+    "Ditto": {
+        "ID": 132,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 48,
+            "Ataque": 48,
+            "Defensa": 48,
+            "Ataque Especial": 48,
+            "Defensa Especial": 48,
+            "Velocidad": 48
+        }
+    },
+    "Eevee": {
+        "ID": 133,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 55,
+            "Ataque": 55,
+            "Defensa": 50,
+            "Ataque Especial": 45,
+            "Defensa Especial": 65,
+            "Velocidad": 55
+        }
+    },
+    "Vaporeon": {
+        "ID": 134,
+        "TIPOS": [
+            "Agua",
+            null
+        ],
+        "STATS": {
+            "HP": 130,
+            "Ataque": 65,
+            "Defensa": 60,
+            "Ataque Especial": 110,
+            "Defensa Especial": 95,
+            "Velocidad": 65
+        }
+    },
+    "Jolteon": {
+        "ID": 135,
+        "TIPOS": [
+            "Electrico",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 65,
+            "Defensa": 60,
+            "Ataque Especial": 110,
+            "Defensa Especial": 95,
+            "Velocidad": 130
+        }
+    },
+    "Flareon": {
+        "ID": 136,
+        "TIPOS": [
+            "Fuego",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 130,
+            "Defensa": 60,
+            "Ataque Especial": 95,
+            "Defensa Especial": 110,
+            "Velocidad": 65
+        }
+    },
+    "Porygon": {
+        "ID": 137,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 65,
+            "Ataque": 60,
+            "Defensa": 70,
+            "Ataque Especial": 85,
+            "Defensa Especial": 75,
+            "Velocidad": 40
+        }
+    },
+    "Omanyte": {
+        "ID": 138,
+        "TIPOS": [
+            "Roca",
+            "Agua"
+        ],
+        "STATS": {
+            "HP": 35,
+            "Ataque": 40,
+            "Defensa": 100,
+            "Ataque Especial": 90,
+            "Defensa Especial": 55,
+            "Velocidad": 35
+        }
+    },
+    "Omastar": {
+        "ID": 139,
+        "TIPOS": [
+            "Roca",
+            "Agua"
+        ],
+        "STATS": {
+            "HP": 70,
+            "Ataque": 60,
+            "Defensa": 125,
+            "Ataque Especial": 115,
+            "Defensa Especial": 70,
+            "Velocidad": 55
+        }
+    },
+    "Kabuto": {
+        "ID": 140,
+        "TIPOS": [
+            "Roca",
+            "Agua"
+        ],
+        "STATS": {
+            "HP": 30,
+            "Ataque": 80,
+            "Defensa": 90,
+            "Ataque Especial": 55,
+            "Defensa Especial": 45,
+            "Velocidad": 55
+        }
+    },
+    "Kabutops": {
+        "ID": 141,
+        "TIPOS": [
+            "Roca",
+            "Agua"
+        ],
+        "STATS": {
+            "HP": 60,
+            "Ataque": 115,
+            "Defensa": 105,
+            "Ataque Especial": 65,
+            "Defensa Especial": 70,
+            "Velocidad": 80
+        }
+    },
+    "Aerodactyl": {
+        "ID": 142,
+        "TIPOS": [
+            "Roca",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 80,
+            "Ataque": 105,
+            "Defensa": 65,
+            "Ataque Especial": 60,
+            "Defensa Especial": 75,
+            "Velocidad": 130
+        }
+    },
+    "Snorlax": {
+        "ID": 143,
+        "TIPOS": [
+            "Normal",
+            null
+        ],
+        "STATS": {
+            "HP": 160,
+            "Ataque": 110,
+            "Defensa": 65,
+            "Ataque Especial": 65,
+            "Defensa Especial": 110,
+            "Velocidad": 30
+        }
+    },
+    "Articuno": {
+        "ID": 144,
+        "TIPOS": [
+            "Hielo",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 85,
+            "Defensa": 100,
+            "Ataque Especial": 95,
+            "Defensa Especial": 125,
+            "Velocidad": 85
+        }
+    },
+    "Zapdos": {
+        "ID": 145,
+        "TIPOS": [
+            "Electrico",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 90,
+            "Defensa": 85,
+            "Ataque Especial": 125,
+            "Defensa Especial": 90,
+            "Velocidad": 100
+        }
+    },
+    "Moltres": {
+        "ID": 146,
+        "TIPOS": [
+            "Fuego",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 90,
+            "Ataque": 100,
+            "Defensa": 90,
+            "Ataque Especial": 125,
+            "Defensa Especial": 85,
+            "Velocidad": 90
+        }
+    },
+    "Dratini": {
+        "ID": 147,
+        "TIPOS": [
+            "Dragon",
+            null
+        ],
+        "STATS": {
+            "HP": 41,
+            "Ataque": 64,
+            "Defensa": 45,
+            "Ataque Especial": 50,
+            "Defensa Especial": 50,
+            "Velocidad": 50
+        }
+    },
+    "Dragonair": {
+        "ID": 148,
+        "TIPOS": [
+            "Dragon",
+            null
+        ],
+        "STATS": {
+            "HP": 61,
+            "Ataque": 84,
+            "Defensa": 65,
+            "Ataque Especial": 70,
+            "Defensa Especial": 70,
+            "Velocidad": 70
+        }
+    },
+    "Dragonite": {
+        "ID": 149,
+        "TIPOS": [
+            "Dragon",
+            "Volador"
+        ],
+        "STATS": {
+            "HP": 91,
+            "Ataque": 134,
+            "Defensa": 95,
+            "Ataque Especial": 100,
+            "Defensa Especial": 100,
+            "Velocidad": 80
+        }
+    },
+    "Mewtwo": {
+        "ID": 150,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 106,
+            "Ataque": 110,
+            "Defensa": 90,
+            "Ataque Especial": 154,
+            "Defensa Especial": 90,
+            "Velocidad": 130
+        }
+    },
+    "Mew": {
+        "ID": 151,
+        "TIPOS": [
+            "Psiquico",
+            null
+        ],
+        "STATS": {
+            "HP": 100,
+            "Ataque": 100,
+            "Defensa": 100,
+            "Ataque Especial": 100,
+            "Defensa Especial": 100,
+            "Velocidad": 100
+        }
+    }
+}
